@@ -60,7 +60,7 @@ ZAKI_ADK/
 
 ```bash
 # Clone the repository (optional)
-git clone https://github.com/yourusername/assignment-buddy.git
+git clone https://github.com/Zaki-Mohd/Assignment_Buddy.git
 cd assignment-buddy
 
 # Run with ADK
