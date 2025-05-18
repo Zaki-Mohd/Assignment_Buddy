@@ -84,3 +84,4 @@ This project is licensed under the Apache License 2.0.
 Contributions are welcome! Open a pull request or submit an issue to suggest features or improvements.
 
 Made with 💡 using Google ADK by Zaki
+![Screenshot 2025-04-19 223606](https://github.com/user-attachments/assets/1ebc1b00-e0d6-49af-abad-9e6e58c649ef)
